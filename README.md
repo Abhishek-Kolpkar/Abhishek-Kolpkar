@@ -5,19 +5,20 @@
 <h1 align="center"> Hey there👋! I'm Abhishek Kolapkar.</h1>
 <h3 align="center"> An Enthusiastic & Passionate Front-end Developer 🚀 </h3>
 
-## 💫 About Me
+# 💫 About Me
 
 * 👨🏻‍💻 Self Taught Frontend Developer.
 * 🤯 Exploring Web technologies and developing software solutions.
 * 👨🏻‍🎓 Currently Learning - Typescript
 
 
-## 🌐 Contact
+# 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kolapkar/)](https://www.linkedin.com/in/abhishek-kolapkar/)
+&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhisheknkolapkar@gmail.com)](mailto:abhisheknkolapkar@gmail.com)
 
-## 🔱 LANGUAGES, Frameworks/Libraries, Tools & Hostings/SaaS
+# 🔱 LANGUAGES, Frameworks/Libraries, Tools & Hostings/SaaS
 
 <div>
     <img alt="HTML" title="HTML" height="55" width="auto" src="./assets/html.png">
@@ -40,11 +41,12 @@
     &nbsp;&nbsp;
     <img alt="Photoshop" title="Photoshop" height="48" width="auto" src="./assets/photoshop.png">
     &nbsp;&nbsp;
+    <br />
     <img alt="GitHub" title="GitHub" height="40" width="auto" src="./assets/github.png">
     &nbsp;&nbsp;
     <img alt="VsCode" title="VsCode" height="40" width="auto" src="./assets/vscode.png">
     &nbsp;&nbsp;
-    <img alt="NPM" title="NPM" height="48" width="auto" src="./assets/npm.png">
+    <img alt="NPM" title="NPM" height="40" width="auto" src="./assets/npm.png">
     &nbsp;&nbsp;
     <img alt="Netlify" title="Netlify" height="48" width="auto" src="./assets/netlify.png">
     &nbsp;&nbsp;
@@ -53,6 +55,6 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./assets/vercel.png">
 </div>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Kolpkar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
